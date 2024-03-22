@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "780326451336",
-    "project_id": "crudproject-82866",
-    "storage_bucket": "crudproject-82866.appspot.com"
+    "project_number": "1026248551938",
+    "project_id": "crudflutter-a5076",
+    "storage_bucket": "crudflutter-a5076.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:780326451336:android:5f572a648a70f75913873d",
+        "mobilesdk_app_id": "1:1026248551938:android:1cfe0072ee8ae3983d811b",
         "android_client_info": {
           "package_name": "com.example.crudflutter"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBgZ9kpESGPGSm-sj6f1UrsofkYhdI1NPA"
+          "current_key": "AIzaSyATfdRQ0waQurajOEfd2LDSo3XQEmIIYdY"
         }
       ],
       "services": {
